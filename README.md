@@ -5,3 +5,7 @@ It is a initiative for improve the frontend on ADempiere ERP.
 You are welcome to contribute with it great project.
 
 Best regard.
+
+
+
+### Note: This repository will be deleted, since it was migrated to https://github.com/erpcya/adempiere-vue and it is where it will be working.
